@@ -26,33 +26,3 @@ private String pages;
     
 
 
-
-
-
-
-
-
-
-
-
-
-// questions
-// 
-//
-//whats a constructor?
-//why do we need to use it?
-//does it need to be called from a different class?
-
-//every java file we create is a class?
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
